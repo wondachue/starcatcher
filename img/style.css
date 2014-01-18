@@ -1,0 +1,25 @@
+<style type="text/css">
+body{}
+.startButton 
+{
+	margin-left: 330px;
+	margin-bottom: 10px;
+	display: block;
+	height: 35px;
+	width: 100px;
+	background: #FFFFFF;
+	border: 2px solid rgba(250, 250, 100, 1);
+
+	color: rgba(250, 250, 200, 1);
+    text-align: center;
+    font: bold 25px "Trebuchet MS", Arial, Helvetica, Geneva, sans-serif;
+
+    border-radius: 100px;
+}
+.startButton:hover 
+{
+	background: #FFCC33;
+}
+
+
+</style>
