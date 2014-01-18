@@ -1,6 +1,4 @@
 /*
-	Version A Bazillion
-
 	This is a simple little timed based game.
 	Click start, then try to catch as many stars as
 	you can before the timer stops.
